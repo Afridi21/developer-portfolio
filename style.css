@@ -1,0 +1,22 @@
+.header{
+    font-family: 'Gulzar', serif;
+}
+.orgen{
+    color:orange
+}
+section{
+    display: flex;
+}
+.half{
+    width: 50%;
+    padding-left: 5%;
+}
+.half img{
+    width:50%
+}
+.button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
