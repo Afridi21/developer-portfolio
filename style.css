@@ -1,5 +1,6 @@
 .header{
     font-family: 'Gulzar', serif;
+    margin: 0;
 }
 .orgen{
     color:orange
@@ -19,4 +20,9 @@ section{
     background-color: orange;
     padding: 10px 30px;
     border-radius: 5px;
+    margin: 5%;
+}
+.top{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
