@@ -5,9 +5,9 @@
 .orgen{
     color:orange
 }
-section{
+.flexible-container{
     display: flex;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 .half{
     width: 50%;
