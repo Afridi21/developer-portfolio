@@ -44,3 +44,17 @@
     width: 50%;
     padding-left: 5%;
 }
+.experience-item{
+    margin-left: 7%;
+    margin-right: 7%;
+    padding: 40px;
+    box-shadow: 10px 10px  40px gray;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
